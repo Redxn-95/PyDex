@@ -10,6 +10,7 @@ _*#PyDex*_
 ••along with it being more complex; showing shiny sprites, megaevolutions etc.
 
 _*## Usage*_
+
     1. pypokedex #required to run -- **pip3 install pypokedex**
     2. pillow #required to run -- **pip3 install pillow**
     3. urllib3 #no need to install as is a dependency for pypokedex
@@ -17,6 +18,7 @@ _*## Usage*_
     5. Tkinter
 
 _*### Contributing*_
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
