@@ -11,8 +11,8 @@ _*#PyDex*_
 
 _*## Usage*_
 
-    1. pypokedex #required to run -- **pip3 install pypokedex**
-    2. pillow #required to run -- **pip3 install pillow**
+    1. pypokedex #required to run -- ** pip3 install pypokedex **
+    2. pillow #required to run -- ** pip3 install pillow **
     3. urllib3 #no need to install as is a dependency for pypokedex
     4. ByteIO
     5. Tkinter
