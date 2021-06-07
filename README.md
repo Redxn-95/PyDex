@@ -1,4 +1,4 @@
-_*#PyDex*_
+_*# PyDex*_
 
 •••Just a little project to put what i have learned so far, when it comes to python.
 •••Learning how to traceback errors, adjusting formatting, layouts etc.••
