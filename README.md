@@ -3,7 +3,7 @@ _*# PyDex*_
 •••Just a little project to put what i have learned so far, when it comes to python. 
    Learning how to traceback errors, adjusting formatting, layouts etc. 
    Upon inputting a number(pokedex reference), or a pokemon name, this project will return 
-   the Sprite(image), Name, Dex number and Types(s).••
+   the Sprite(image), Name, Dex number and Types(s).
 
 •••I plan to revisit this and eventually make it look more like a Pokedex from the show,
 ••along with it being more complex; showing shiny sprites, megaevolutions etc.
